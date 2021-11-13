@@ -18,9 +18,7 @@ Jennapa Phunanil 623020515-3
 
 ## **สารบัญเนื้อหา**
 
-## สรุปเนื้อหาบทที่ 1 [Introduction]
-
-https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_1.ipynb
+## สรุปเนื้อหาบทที่ 1 [Introduction](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_1.ipynb)
 
   * Data Warehouse คืออะไร
   * Data Mining คืออะไร 
@@ -31,76 +29,122 @@ https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_1.ipynb
   * ขั้นตอนการทำข้อมูล
   * หัวข้อที่จะเรียน
   
-## สรุปเนื้อหาบทที่ 2 [Getting to Know Your Data]
+## สรุปเนื้อหาบทที่ 2 [Distance Numpy](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2.ipynb)
 
- https://github.com/Jennapa-colab/DWDM21/blob/main/Data102(Chapter2).ipynb
-  * ลักษณะภาพว่าแต่ละมิติแตกต่างกันอย่างไร
-  * ลักษณะข้อมูล EX ข้อมูลเป้นกราฟ , วิดีโอ
-  * ชนิดของข้อมูล
-  * คุณสมบัติที่สำคัญ
-  * ชนิดของ Attribute
-  * การนำค่าสถิติเข้ามาเกี่ยวข้อง    
-  
-  ## สรุปเนื้อหาบทที่ 2 เพิ่มเติม [Getting to Know Your Data]
+   * Numpy Array
+   * Quiz กลุ่ม
+   * Distance matrix
+   * Euclidean Distance (L2-norm)
+   * Manhattan Distance (L1-norm)
+   * Quiz6
+   * Hw 11
+   * Distance of Binary Value
+     
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 2.1](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf)
 
-  https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf*
+## สรุปเนื้อหาบทที่ 3 [Data Preprocessing](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Preprocessing(chapter_3).ipynb)
 
-
-##  สรุปเนื้อหาบทที่ 3 [Data Preprocessing]
-
-  https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_3_Preprocessing.pdf 
-  https://github.com/Jennapa-colab/DWDM21/blob/main/Preprocessing.pdf
-
-   * Data Preprocessing คืออะไร
-   * ขั้นตอนในการทำ Data Preprocessing
-   * ทำไมถึงต้องทำ Data Preprocessing
-   * Data Cleaning คืออะไร
-   * เพราะเหตุใดข้อมูลจึงไม่สมบูรณ์
-   * ตัวเลือกในการจัดการกับค่า Missing
-
-
-## สรุปเนื้อหาบทที่ 4 [Data Warehousing and On-line Anaalytical Processing] 
-
-https://github.com/Jennapa-colab/DWDM21/blob/main/%20Chapter4_OLAP.pdf
-
-   * Data Warehousing คืออะไร
-   * OLTP & OLAP
-   * ทำไมถึงต้องแยก Data Warehousing
-   * โมเดล ทั้ง 3 แบบของ Data Warehousing
-   * Meta Data
-   * การสร้างแบบจำลองแนวคิดของ Data Warehousing ว่ามีแบบไหนบ้าง แต่ละแบบเป็นอย่างไร
-   * ลักษณะข้อมูลในหลายมิติเป็นอย่างไร
-   * การใช้ data warehouse ทั้งหมด 3 ประเภท 
+   * Meta data
+   * ชี้ข้อมูลในตาราง
+     * แบบธรรมดา
+     * แบบ .iloc
+   * Missing Values
+     * Handling Missing Value 1
+     * Handling Missing Value 1.5 
+     * Handling Missing Value 2 
+     * Handling Missing Value 3 
+     * Handling Missing Value 4 
+     * Handling Missing Value 5 
+   * PD (PANDAS)  
+     * Select data by values [PD]
+       * สร้าง list ของ boolean
+       * นำ list ของ boolean เลือกค่าในตาราง
+       * ใช้ & (and) และ | (or) ในการรวม list ของ boolean
+   * Quiz 4 + HW
+     * ต่อตารางแนวแกน Y 
+     * การเรียงข้อมูล 
+   * Outlier
+   * Quiz5
+   * Quiz กลุ่ม III
+     * Pandas'looping(iterrows)
+   * การรวมตาราง 
+     * รวม 2 ตาราง
+     * เลือกเฉพาะ column ที่ต้องการมาแปะ (.map())
+     * Group by (pandas)
+   * HW + Quiz
+     * [PD] save ตารางไปใช้ที่อื่น
+     * [PD]การสร้างตาราง
+     
+   - [Data Visualization](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Visualization_.ipynb)
+     
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 3](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_3_Preprocessing.pdf) 
    
-## สรุปเนื้อหาบทที่ 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods]
-   
-   https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter6_Associationn_Rules_.ipynb
-   
+## สรุปเนื้อหาบทที่ 4 [Data Warehousing and on-line Analytical Processing](https://github.com/Jennapa-colab/DWDM21/blob/main/%20Chapter4_OLAP.pdf)
+
+   * Data Warehouse Basic Concepts
+   * Data Warehouse Modeling
+     * Data Cube
+     * OLAP
+   * Data Warehouse Design and Usage
+   * Data Warehouse Implementation
+   * Summary
+
+## สรุปเนื้อหาบทที่ 5 [Associationn Rules](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter6_Associationn_Rules_.ipynb)
+
+   * ความหมาของ Association Rule
+     * Market Basket Analysis
+   * จัดการข้อมูลสินค้าที่ถูกยกเลิก
    * Basic Concepts
-   * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
-   * ตัวอย่าง K-Itemsets
-   * การหาค่าต่าง ๆ ของ K-Itemsets
-   * The Apriori Algorihm
-   * ตัวอย่าง The Apriori Algorihm
+     * Fequence Pattern
+     * Association Rule
+   * Efficient Pattern Mining Mathod
+     * Apriori
+     * Frequence Itemsets
+   * Quiz 7
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 5](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_6.pdf)
    
-## สรุปเนื้อบทที่ 8 [Classification:Basic Concepts]
-
- https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb
- https://github.com/Jennapa-colab/DWDM21/blob/main/Chap_8_Clustering.ipynb
- https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_8.pdf
-
-   * ลักษณะการสร้างโมเดลแบบมีผู้สอน 
-   * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
-   * การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
-   * การสร้างโมเดลแบบจำลอง
-   * Decision Tree ต้นไม้ตัดสินใจ
-   * หลักการสร้างตาราง
-   * ตัวอย่างในการหาค่าต่าง ๆ 
-   * Gini Index
-   * การหาค่า Gini
-   * Naive Bayes Classfier 
-   * Linear Regreesion 
+ ## สรุปเนื้อหาบทที่ 6 Classification
+   * [Decision tree](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+     * Train Model
+     * Plot tree
+     * Evaluation
+     * Random
+     * Advanced Tree
+     * TEST
+   * [KNN](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_7_Classification_(KNN_NN).ipynb)
+     * Split data
+     * Train Model
+     * Retrain & Evaluate
+     * Neural Network
+     * Train - Test  
+     * [Evaluation]
+   
+     * แบ่ง Data
+     * สร้างโมเดลทำนาย
+       * import
+       * define
+       * trsin
+       * evaluation
+       * 
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 6]
+   * [การบ้านคำนวณมือ](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_8.pdf)
+    
+ ## สรุปเนื้อหาบทที่ 7 [Clustering](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter8_Clustering.ipynb)
+   * K-means
+     * Generate Data
+     * Explore data
+     * Clustering
+       * import
+       * define
+       * train - predict
+       * 3 clusters
+       * 4 clusters
+       * 5 clusters
+   * Color Quantization
+     * การนับจำนวนสี   
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 7]
   
+ 
 
 
 
