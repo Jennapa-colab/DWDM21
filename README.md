@@ -104,8 +104,8 @@ Jennapa Phunanil 623020515-3
    * [ชีทเรียน+ เลคเชอร์ บทที่ 5](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_6.pdf)
    
 ## สรุปเนื้อหาบทที่ 6 [Classification](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
- 
-     * Train Model
+
+   * Train Model
      * Plot tree
      * Evaluation
      * Random
