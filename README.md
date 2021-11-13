@@ -39,6 +39,8 @@ Jennapa Phunanil 623020515-3
    * Quiz6
    * Hw 11
    * Distance of Binary Value
+   
+   - [Data Visualization](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Visualization_.ipynb)
      
    * [ชีทเรียน+ เลคเชอร์ บทที่ 2.1](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf)
 
@@ -75,7 +77,6 @@ Jennapa Phunanil 623020515-3
      * [PD] save ตารางไปใช้ที่อื่น
      * [PD]การสร้างตาราง
      
-   - [Data Visualization](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Visualization_.ipynb)
      
    * [ชีทเรียน+ เลคเชอร์ บทที่ 3](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_3_Preprocessing.pdf) 
    
