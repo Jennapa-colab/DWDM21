@@ -103,13 +103,15 @@ Jennapa Phunanil 623020515-3
    * Quiz 7
    * [ชีทเรียน+ เลคเชอร์ บทที่ 5](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_6.pdf)
    
- ## สรุปเนื้อหาบทที่ 6 Classification[Decision tree](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+## สรุปเนื้อหาบทที่ 6 [Classification](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+ 
      * Train Model
      * Plot tree
      * Evaluation
      * Random
      * Advanced Tree
      * TEST
+     
    * [KNN](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_7_Classification_(KNN_NN).ipynb)
      * Split data
      * Train Model
