@@ -39,8 +39,29 @@ Jennapa Phunanil 623020515-3
    * Quiz6
    * Hw 11
    * Distance of Binary Value
+
+* [Basic python](https://github.com/Jennapa-colab/DWDM21/blob/main/data101_(chapter2).ipynb)
+     * variable 
+     * Casting
+     * Data structure
+     * List
+     * Loop
+     * Condition
+     * Quiz 1 , Quiz 2
+     * HW 3
+     * Function
+    
+     * Boxplot
+     * Time Series Plot
+     
+ * [Visualization](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Visualization_.ipynb)
+     * Scatter plot
+     * Plot
+     * Bar Chart 
+     * Histogram
+     
+  
    
-   - [Data Visualization](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Visualization_.ipynb)
      
    * [ชีทเรียน+ เลคเชอร์ บทที่ 2.1](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf)
 
