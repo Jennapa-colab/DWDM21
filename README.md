@@ -68,7 +68,7 @@ Jennapa Phunanil 623020515-3
      * Hw 11
      * Distance of Binary Value
      
-* [ชีทเรียน+ เลคเชอร์ บทที่ 2.1](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf)
+* [ชีทเรียน+ เลคเชอร์ บทที่ 2](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf)
 
 ## สรุปเนื้อหาบทที่ 3 [Data Preprocessing](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Preprocessing(chapter_3).ipynb)
 
