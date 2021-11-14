@@ -169,6 +169,12 @@ Jennapa Phunanil 623020515-3
    * Color Quantization
      * การนับจำนวนสี   
    * [ชีทเรียน+ เลคเชอร์ บทที่ 7]
+   
+ ## EXAM
+   * [MiniExam](https://github.com/Jennapa-colab/DWDM21/blob/main/MiniExam.ipynb)
+ ## Final
+   * [Final Project](https://github.com/Jennapa-colab/DWDM21/blob/main/Project_SUKUNA.ipynb)
+ 
   
  
 
