@@ -31,15 +31,6 @@ Jennapa Phunanil 623020515-3
   
 ## สรุปเนื้อหาบทที่ 2 [Distance Numpy](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2.ipynb)
 
-   * Numpy Array
-   * Quiz กลุ่ม
-   * Distance matrix
-   * Euclidean Distance (L2-norm)
-   * Manhattan Distance (L1-norm)
-   * Quiz6
-   * Hw 11
-   * Distance of Binary Value
-
 * [Basic python](https://github.com/Jennapa-colab/DWDM21/blob/main/data101_(chapter2).ipynb)
      * variable 
      * Casting
@@ -50,20 +41,31 @@ Jennapa Phunanil 623020515-3
      * Quiz 1 , Quiz 2
      * HW 3
      * Function
+
     
+* [Pot](https://github.com/Jennapa-colab/DWDM21/blob/main/Data102(Chapter2).ipynb)    
      * Boxplot
      * Time Series Plot
      
  * [Visualization](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Visualization_.ipynb)
+
      * Scatter plot
      * Plot
      * Bar Chart 
      * Histogram
      
-  
-   
+ * [Distance Numpy](https://github.com/Jennapa-colab/DWDM21/blob/main/Distance_Numpy.ipynb)
+ 
+     * Numpy Array
+     * Quiz กลุ่ม
+     * Distance matrix
+     * Euclidean Distance (L2-norm)
+     * Manhattan Distance (L1-norm)
+     * Quiz6
+     * Hw 11
+     * Distance of Binary Value
      
-   * [ชีทเรียน+ เลคเชอร์ บทที่ 2.1](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf)
+* [ชีทเรียน+ เลคเชอร์ บทที่ 2.1](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_2_Binary%20Attributes.pdf)
 
 ## สรุปเนื้อหาบทที่ 3 [Data Preprocessing](https://github.com/Jennapa-colab/DWDM21/blob/main/Data_Preprocessing(chapter_3).ipynb)
 
