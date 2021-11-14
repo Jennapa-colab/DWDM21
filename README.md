@@ -1,11 +1,12 @@
 # DWDM21
+
 Data Warehouse &amp; Data Mining 2021
 
 Jennapa Phunanil 623020515-3
 
 *Group Name: SUKUNA*
 
-1.**Jennapa Phunanil 623020515-3**
+**1.Jennapa Phunanil 623020515-3**
 
 2.Ratima Chinwong 623020042-0
 
@@ -14,6 +15,8 @@ Jennapa Phunanil 623020515-3
 4.Suphalaksana Buajan 623020540-4
 
 5.Kiartisak Senchan 623021041-7
+
+
 
 
 ## **สารบัญเนื้อหา**
@@ -172,6 +175,17 @@ Jennapa Phunanil 623020515-3
    
  ## EXAM
    * [MiniExam](https://github.com/Jennapa-colab/DWDM21/blob/main/MiniExam.ipynb)
+     * ข้อสอบ
+       * ข้อ 3 สายการบินไหนมีเที่ยวบินมากที่สุดและน้อยที่สุด
+          * สายการบินมีเที่ยวบินมากที่สุด
+          * สายการบินที่มีเที่ยวบินน้อยที่สุด
+    
+       * ข้อ 0 หารัฐที่มีจำนวนเครื่องบินขาเข้ามากที่สุดและน้อยที่สุด
+           * รัฐที่มีจำนวนเครื่องบินขาเข้ามากที่สุด
+           * รัฐที่มีจำนวนเครื่องบินขาเข้าน้อยที่สุด
+  
+       * โจทย์คิดเอง รัฐใดที่มีค่าเฉลี่ยของ 'ความล่าช้า- ขาออก' สูงที่สุด 20 อันดับแรก
+       
    
  ## Final
  * [Final Project](https://github.com/Jennapa-colab/DWDM21/blob/main/Project_SUKUNA.ipynb)
