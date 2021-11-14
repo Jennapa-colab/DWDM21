@@ -172,9 +172,22 @@ Jennapa Phunanil 623020515-3
    
  ## EXAM
    * [MiniExam](https://github.com/Jennapa-colab/DWDM21/blob/main/MiniExam.ipynb)
+   
  ## Final
-   * [Final Project](https://github.com/Jennapa-colab/DWDM21/blob/main/Project_SUKUNA.ipynb)
+ * [Final Project](https://github.com/Jennapa-colab/DWDM21/blob/main/Project_SUKUNA.ipynb)
  
+    * ข้อมูลชุดที่ 1 จำนวนประชากรในกรุงเทพมหานคร
+    * ข้อมูลชุดที่ 2 จำนวนขยะในเขตกรุงเทพมหานคร
+    * ข้อมูลชุดที่ 3 จำนวนคนย้ายเข้า-ย้ายออกใน
+    * เรียง dcode ใหม่ ให้เป็นไปตามลำดับ
+    * หา Missing Value
+    * รวมตาราง 2 ตารางเข้าด้วยกัน 
+    * เช็คค่า Missing 
+    * รวมตาราง population และ garbage
+    * รวมตาราง population, garbage และ moveinmoveout
+* วัตถุประสงค์
+* ประโยชน์
+
   
  
 
