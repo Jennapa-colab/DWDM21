@@ -187,6 +187,15 @@ Jennapa Phunanil 623020515-3
     * รวมตาราง population, garbage และ moveinmoveout
 * วัตถุประสงค์
 * ประโยชน์
+    * เลือกมาเฉพาะจำนวนสวนสาธารณะของปี 59
+    * Classification
+    * Decision Tree
+    * KNN
+    * Retrain & Evaluate
+    * Neural Network
+    * Retrain & Evaluate
+    * เลือก Model ทำนาย
+    * Visualization
 
   
  
