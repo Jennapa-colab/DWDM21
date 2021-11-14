@@ -212,6 +212,7 @@ Jennapa Phunanil 623020515-3
     * Retrain & Evaluate
     * เลือก Model ทำนาย
     * Visualization
+* [PowerPoint Final Project](https://github.com/Jennapa-colab/DWDM21/blob/main/PowerPoint%20_Final_Project%20.pdf)
 
   
  
