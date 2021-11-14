@@ -115,6 +115,8 @@ Jennapa Phunanil 623020515-3
    * Data Warehouse Design and Usage
    * Data Warehouse Implementation
    * Summary
+  
+  * [ชีทเรียน+แลคเชอร์ บทที่ 4](https://github.com/Jennapa-colab/DWDM21/blob/main/%20Chapter4_OLAP.pdf)
 
 ## สรุปเนื้อหาบทที่ 5 [Associationn Rules](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter6_Associationn_Rules_.ipynb)
 
