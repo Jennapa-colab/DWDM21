@@ -119,7 +119,8 @@ Jennapa Phunanil 623020515-3
      * Retrain & Evaluate
      * Neural Network
      * Train - Test  
-     * [Evaluation]
+     
+   * [Evaluation](https://github.com/Jennapa-colab/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
    
      * แบ่ง Data
      * สร้างโมเดลทำนาย
@@ -127,7 +128,7 @@ Jennapa Phunanil 623020515-3
        * define
        * trsin
        * evaluation
-       * 
+       
    * [ชีทเรียน+ เลคเชอร์ บทที่ 6]
    * [การบ้านคำนวณมือ](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_8.pdf)
     
