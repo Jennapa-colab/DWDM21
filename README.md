@@ -157,7 +157,7 @@ Jennapa Phunanil 623020515-3
        * trsin
        * evaluation
        
-   * [ชีทเรียน+ เลคเชอร์ บทที่ 6]
+   * [ชีทเรียน+ เลคเชอร์ บทที่ 6](ClassBasic.pdf)
    * [การบ้านคำนวณมือ](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter_8.pdf)
     
  ## สรุปเนื้อหาบทที่ 7 [Clustering](https://github.com/Jennapa-colab/DWDM21/blob/main/Chapter8_Clustering.ipynb)
